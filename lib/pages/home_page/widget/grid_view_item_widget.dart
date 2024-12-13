@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
+
 import 'package:news_app/models/category_model.dart';
 
 class GridViewItemWidget extends StatelessWidget {
